@@ -34,5 +34,5 @@ your activity on the Hdmovies, such as title selections, watch history and searc
   
   
 #Children
-  You must be 15 years of age or older to subscribe to the Hdmovies service. In certain jurisdictions, the age of majority may be older than 18, in which case, you must satisfy that age in order to become a member.
+  You must be 15 years of age or older to subscribe to the Hdmovies service. In certain jurisdictions, the age of majority may be older than 15, in which case, you must satisfy that age in order to become a member.
   
