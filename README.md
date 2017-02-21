@@ -33,6 +33,11 @@ your activity on the Hdmovies, such as title selections, watch history and searc
   + We use reasonable administrative, logical, physical and managerial measures to safeguard your personal information against loss, theft and unauthorized access, use and modification. Unfortunately, no measures can be guaranteed to provide 100% security. Accordingly, we cannot guarantee the security of your information
   
   
-#Children
-  You must be 15 years of age or older to subscribe to the Hdmovies service. In certain jurisdictions, the age of majority may be older than 15, in which case, you must satisfy that age in order to become a member.
+#Children  
+
+  + You must be 15 years of age or older to subscribe to the Hdmovies service. In certain jurisdictions, the age of majority may be older than 15, in which case, you must satisfy that age in order to become a member.
   
+#Changes to the Policy
+  
+  + We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
