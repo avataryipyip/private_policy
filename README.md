@@ -40,4 +40,7 @@ your activity on the Hdmovies, such as title selections, watch history and searc
 #Changes to the Policy
   
   + We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+  
+# If you have any questions about our Privacy Policy, please contact us at worldstudio2017@gmail.com  
+  
 
