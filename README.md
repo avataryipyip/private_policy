@@ -16,3 +16,9 @@ We receive and store information about you such as:
 your activity on the Hdmovies, such as title selections, watch history and search queries;
 
 #Use of Information
+
+  + We use information to provide, analyze, administer, enhance and personalize our services and marketing efforts, to process your registration, your orders and to communicate with you on these and other topics. For example, we use information to:
+  
+    - determine your content, provide you with customized and personalized viewing recommendations and help us quickly and efficiently respond to inquiries and requests;
+    
+    - analyze and understand our audience, improve our service (including our user interface experiences) and optimize content selection, recommendation algorithms and delivery;
